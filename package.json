@@ -2,7 +2,7 @@
   "name": "adapers-test",
   "version": "1.0.0",
   "description": "",
-  "main": "aave-avalanch.ts",
+  "main": "main.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "ts-node src/main.ts",
